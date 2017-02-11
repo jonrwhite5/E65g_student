@@ -1,5 +1,5 @@
 //
-//  FirstViewController.swift
+//  FirstViewController.swift chnaged to SimulationViewController.swift
 //  Assignment1
 //
 //  Created by Van Simmons on 1/15/17.
